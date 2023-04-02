@@ -1,4 +1,4 @@
-# LinkedARTeveldestad
+# Linked ARTeveldestad
 Software and documentation for the project Linked ARTeveldestad for the call CoGhent (Collectie van de Gentenaar).
 
 - More information about the project can be found [here](https://www.collectie.gent/). 
