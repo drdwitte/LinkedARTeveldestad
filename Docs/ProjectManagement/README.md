@@ -7,3 +7,7 @@ This folder contains documentation (markdown) about *models*, *deployment*, and 
 - **TODOs:**
 	- **data report**: id, prov, processing report, script => [Markdown table]
 	- **data dictionaries**:  *codebook* (field, domain, range, description) [Excel]
+	
+	
+	
+- Value Proposition Canvas: [ideation](https://docs.google.com/document/d/14ujpAhKIMLsYrriVHcTnRvWSuJ7Ym1WG8cZAzsFKffE/edit?usp=sharing)
