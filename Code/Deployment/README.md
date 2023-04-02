@@ -1,6 +1,6 @@
-#Deployment
+# Deployment
 
-Scripts and code specificly for deployment. One example being containerization.
+ Scripts and code specificly for deployment. One example being containerization.
 
 
 ## The static version of the LA app

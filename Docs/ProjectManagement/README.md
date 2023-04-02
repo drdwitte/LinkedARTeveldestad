@@ -8,6 +8,8 @@ This folder contains documentation (markdown) about *models*, *deployment*, and 
 	- **data report**: id, prov, processing report, script => [Markdown table]
 	- **data dictionaries**:  *codebook* (field, domain, range, description) [Excel]
 	
-	
-	
-- Value Proposition Canvas: [ideation](https://docs.google.com/document/d/14ujpAhKIMLsYrriVHcTnRvWSuJ7Ym1WG8cZAzsFKffE/edit?usp=sharing)
+
+- Workshop to initiate cocreation of LA App
+	- [Workshop planning](./20230123_PlanningWorkshopCogent.docx)
+	- [Introduction slides](./20230123_IntroSlidesWorkshopCogent.pptx) about the collection and the technology to use.
+	- Value Proposition Canvas: [ideation](https://docs.google.com/document/d/14ujpAhKIMLsYrriVHcTnRvWSuJ7Ym1WG8cZAzsFKffE/edit?usp=sharing)

@@ -1,9 +1,9 @@
-#Data Preparation
+# Data Preparation
 
 Scripts to build an ETL pipeline
 
 # Download collection objects (author: Jelle VH)
-`python .\coghent\download_graphql.py [output_object_directory] --limit [limit] --skip [skip] --relation [relation]`
+`python .\coghent\download_graphql_JVH.py [output_object_directory] --limit [limit] --skip [skip] --relation [relation]`
 
 |Museum| Relation|
 |-|-|
@@ -14,7 +14,7 @@ Scripts to build an ETL pipeline
 | Archief Gent | entities/358c1bdc-bcd7-45ab-8b93-e2cd85d21aca |
 
 # Download object images (author: Jelle VH)
-`python .\coghent\download_images.py [input_object_directory] [output_image_directory]`
+`python .\coghent\download_images_JVH.py [input_object_directory] [output_image_directory]`
 
 
-#RouteYou Client requires a key!
+### RouteYou Client requires a key!
